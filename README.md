@@ -1,7 +1,7 @@
 SparkFun u-blox MAX-M10S (Qwiic)
 ===========================================================
 
-[![SparkFun u-blox MAX-M10S (Qwiic)]()](https://www.sparkfun.com/products/18037)
+[![SparkFun u-blox MAX-M10S (Qwiic)](https://cdn.sparkfun.com/assets/parts/1/7/3/4/1/18037-SparkFun_GNSS_Receiver_Breakout_-_MAX-M10S__Qwiic_-01.jpg)](https://www.sparkfun.com/products/18037)
 
 [*SparkFun u-blox MAX-M10S (Qwiic) (GPS-18037)*](https://www.sparkfun.com/products/18037)
 
