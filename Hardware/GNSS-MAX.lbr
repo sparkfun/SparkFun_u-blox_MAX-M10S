@@ -177,7 +177,9 @@
 <connect gate="U1" pin="V_IO" pad="7"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="IC-15926" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
