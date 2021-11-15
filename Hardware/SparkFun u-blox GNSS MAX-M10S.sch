@@ -34879,15 +34879,15 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <plain>
 <text x="237.744" y="7.366" size="2.54" layer="94">V10</text>
 <text x="93.98" y="114.3" size="1.778" layer="97" align="center">7-bit unshifted I2C address: 0x42</text>
-<text x="88.9" y="170.18" size="2.54" layer="94" ratio="15" rot="MR180" align="center">u-blox MAX-M10S</text>
-<text x="148.082" y="89.662" size="2.54" layer="94" ratio="15" rot="MR180" align="center">RTC Backup</text>
-<text x="223.52" y="170.18" size="2.54" layer="94" ratio="15" rot="MR180" align="center">Stat LEDs</text>
+<text x="88.9" y="170.18" size="2.54" layer="94" rot="MR180" align="center">u-blox MAX-M10S</text>
+<text x="148.082" y="89.662" size="2.54" layer="94" rot="MR180" align="center">RTC Backup</text>
+<text x="223.52" y="170.18" size="2.54" layer="94" rot="MR180" align="center">Stat LEDs</text>
 <text x="146.558" y="160.02" size="1.778" layer="97">Close jumper to enable
 I2C pullups on bus</text>
 <text x="215.138" y="162.814" size="1.778" layer="97">Cut jumper to 
 disable LED</text>
 <text x="15.24" y="175.26" size="1.524" layer="97" ratio="15">Coplanar Waveguide Calculation:</text>
-<text x="63.5" y="88.9" size="2.54" layer="94" ratio="15" rot="MR180" align="center">Connections</text>
+<text x="63.5" y="88.9" size="2.54" layer="94" rot="MR180" align="center">Connections</text>
 <wire x1="119.38" y1="96.52" x2="119.38" y2="0" width="0.2032" layer="97" style="longdash"/>
 <wire x1="0" y1="96.52" x2="119.38" y2="96.52" width="0.2032" layer="97" style="longdash"/>
 <wire x1="172.72" y1="35.56" x2="172.72" y2="96.52" width="0.2032" layer="97" style="longdash"/>
@@ -34955,7 +34955,6 @@ disable LED</text>
 </instance>
 <instance part="JP5" gate="G$1" x="142.24" y="157.48" smashed="yes" rot="R270">
 <attribute name="NAME" x="139.7" y="153.162" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="141.859" y="154.94" size="1.778" layer="96" font="vector" rot="R270" align="top-left"/>
 </instance>
 <instance part="SUPPLY9" gate="G$1" x="142.24" y="165.1" smashed="yes">
 <attribute name="VALUE" x="142.24" y="167.894" size="1.778" layer="96" align="bottom-center"/>
@@ -34969,7 +34968,6 @@ disable LED</text>
 </instance>
 <instance part="PPS_LED" gate="G$1" x="228.6" y="144.78" smashed="yes" rot="R90">
 <attribute name="NAME" x="226.568" y="139.446" size="1.778" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="231.14" y="142.24" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
 </instance>
 <instance part="D2" gate="G$1" x="137.16" y="76.2" smashed="yes" rot="R270">
 <attribute name="NAME" x="139.7" y="78.232" size="1.778" layer="95" font="vector"/>
@@ -35053,7 +35051,6 @@ disable LED</text>
 </instance>
 <instance part="PWR" gate="G$1" x="220.98" y="144.78" smashed="yes" rot="R90">
 <attribute name="NAME" x="219.202" y="142.748" size="1.778" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="223.52" y="142.24" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
 </instance>
 <instance part="U1" gate="U1" x="88.9" y="142.24" smashed="yes">
 <attribute name="NAME" x="76.2" y="157.988" size="1.778" layer="95"/>
@@ -35085,7 +35082,6 @@ disable LED</text>
 <instance part="LOGO3" gate="G$1" x="231.14" y="66.04" smashed="yes"/>
 <instance part="E1" gate="G$1" x="38.1" y="144.78" smashed="yes" rot="MR0">
 <attribute name="NAME" x="35.052" y="144.78" size="1.778" layer="95" font="vector" rot="MR0"/>
-<attribute name="VALUE" x="35.052" y="142.494" size="1.778" layer="96" font="vector" rot="MR0"/>
 </instance>
 <instance part="J5" gate="G$1" x="81.28" y="60.96" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="86.36" y="48.514" size="1.778" layer="96" font="vector" rot="MR0"/>
@@ -35094,7 +35090,6 @@ disable LED</text>
 <instance part="LOGO4" gate="G$1" x="184.15" y="66.548" smashed="yes"/>
 <instance part="MEAS" gate="JP1" x="71.12" y="30.48" smashed="yes" rot="R90">
 <attribute name="NAME" x="69.342" y="27.686" size="1.778" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="73.66" y="27.94" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
 </instance>
 <instance part="SUPPLY2" gate="G$1" x="33.02" y="73.66" smashed="yes">
 <attribute name="VALUE" x="33.02" y="76.454" size="1.778" layer="96" align="bottom-center"/>
@@ -35457,8 +35452,8 @@ disable LED</text>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="TXO"/>
-<wire x1="76.2" y1="22.86" x2="68.58" y2="20.32" width="0.1524" layer="91"/>
-<label x="68.58" y="20.32" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="76.2" y1="22.86" x2="68.58" y2="22.86" width="0.1524" layer="91"/>
+<label x="68.58" y="22.86" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="TXO" class="0">
@@ -35474,8 +35469,8 @@ disable LED</text>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="RXI"/>
-<wire x1="76.2" y1="20.32" x2="68.58" y2="22.86" width="0.1524" layer="91"/>
-<label x="68.58" y="22.86" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="76.2" y1="20.32" x2="68.58" y2="20.32" width="0.1524" layer="91"/>
+<label x="68.58" y="20.32" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="GPS_RF" class="3">
