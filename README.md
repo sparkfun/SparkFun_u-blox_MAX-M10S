@@ -10,7 +10,7 @@ SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)
 Repository Contents
 -------------------
 
-* **/Documents** - Ublox datasheets and various whitepapers 
+* **/Documents** - Related U-blox datasheets and various whitepapers 
 * **/Hardware** - Eagle files
 
 Documentation
