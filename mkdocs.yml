@@ -78,7 +78,7 @@ extra:
 nav:
   - SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic): index.md
   - Product Manual:
-    - Introduction: introduction.md
+    - Introduction: index.md
     - Hardware Overview: hardware_overview.md
     - Hardware Assembly: hardware_assembly.md
     - Software Setup and Programming: software_setup_and_programming.md
