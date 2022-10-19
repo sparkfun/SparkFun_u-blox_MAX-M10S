@@ -76,7 +76,6 @@ extra:
       link: https://twitter.com/sparkfun
 
 nav:
-  - SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic): index.md
   - Product Manual:
     - Introduction: index.md
     - Hardware Overview: hardware_overview.md
