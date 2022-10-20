@@ -43,15 +43,15 @@ To follow along with this tutorial, you will need the following materials. You m
         </td>
         <td width="140">
             <a href="https://www.sparkfun.com/products/18158">
-                <div style="text-align: center"><img src="https://cdn.sparkfun.com//assets/parts/1/7/4/8/7/18158-SparkFun_RedBoard_Plus-01.jpg" alt="SparkFun RedBoard Plus" height="140"></div>
-                <h3 style="text-align: left">SparkFun RedBoard Plus</h3></div>
+              <div style="text-align: center"><img src="https://cdn.sparkfun.com//assets/parts/1/7/4/8/7/18158-SparkFun_RedBoard_Plus-01.jpg" alt="SparkFun RedBoard Plus" height="140"></div>
+              <h3 style="text-align: left">SparkFun RedBoard Plus</h3></div>
             </a>
             <span>DEV-18158</span>
         </td>
         <td width="140">
             <a href="https://www.sparkfun.com/products/14426">
-                <div style="text-align: center"><img src="https://cdn.sparkfun.com//assets/parts/1/2/4/5/2/14426-Qwiic_Cable_-_50mm-01.jpg" alt="Qwiic Cable - 50mm" height="140"></div>
-                <h3 style="text-align: left">Qwiic Cable - 50mm</h3>
+              <div style="text-align: center"><img src="https://cdn.sparkfun.com//assets/parts/1/2/4/5/2/14426-Qwiic_Cable_-_50mm-01.jpg" alt="Qwiic Cable - 50mm" height="140"></div>
+              <h3 style="text-align: left">Qwiic Cable - 50mm</h3>
             </a>
             <span>PRT-14426</span>
         </td>
