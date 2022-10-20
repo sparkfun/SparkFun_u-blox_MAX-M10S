@@ -1,7 +1,7 @@
 
 site_name: SparkFun MAX-M10S - Product Manual
 site_description: A hookup guide for the SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)
-site_url: https://docs.sparkfun.com/SparkFun_u-blox_MAX-M10S
+site_url: https://sparkfun.github.io/SparkFun_u-blox_MAX-M10S
 
 theme:
   name: material
