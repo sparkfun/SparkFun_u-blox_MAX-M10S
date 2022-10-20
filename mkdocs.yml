@@ -76,9 +76,10 @@ extra:
       link: https://twitter.com/sparkfun
 
 nav:
-  - Introduction: index.md
-  - Hardware Overview: hardware_overview.md
-  - Hardware Assembly: hardware_assembly.md
-  - Software Setup and Programming: software_setup_and_programming.md
-  - Troubleshooting: troubleshooting.md
-  - Resources and Going Further: resources_and_going_further.md
+  - SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic) Hookup Guide:
+    - Introduction: index.md
+    - Hardware Overview: hardware_overview.md
+    - Hardware Assembly: hardware_assembly.md
+    - Software Setup and Programming: software_setup_and_programming.md
+    - Troubleshooting: troubleshooting.md
+    - Resources and Going Further: resources_and_going_further.md
