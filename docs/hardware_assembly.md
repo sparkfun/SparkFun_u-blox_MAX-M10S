@@ -16,9 +16,8 @@ One method to communicate with the MAX-M10S is through I<sup>2</sup>C. The Qwiic
 
 <div class="center-block text-center"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_-_MAX-M10S_Qwiic_RedBoard_Plus_Hookup.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_-_MAX-M10S_Qwiic_RedBoard_Plus_Hookup.jpg" alt="RedBoard Plus Connected to the MAX-M10S via Qwiic Cable"></a></div>
 
-<div class="alert alert-info" role="alert">
-  <b>Note:</b> The RedBoard Plus includes a switch to adjust the logic levels to either 5V or 3.3V. It does not matter what side the switch is on for this setup to communicate with the MAX-M10S since there are logic level converters included before the Qwiic connector.
-</div>
+!!! note
+    The RedBoard Plus includes a switch to adjust the logic levels to either 5V or 3.3V. It does not matter what side the switch is on for this setup to communicate with the MAX-M10S since there are logic level converters included before the Qwiic connector.
 
 If you're going to be [soldering](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering) to the through hole pins for I<sup>2</sup>C functionality, then just attach the following lines between your chosen microcontroller's I<sup>2</sup>C and the MAX-M10S:
 

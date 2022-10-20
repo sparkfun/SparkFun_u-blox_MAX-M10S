@@ -25,9 +25,9 @@ Power for this board should be **3.3V**. There is a 3.3V pin on the PTH header a
 
 ### Communication Ports
 
-<div class="alert alert-warning" role="alert">
-  <b>Note: </b>The MAX-M10S differs from other modules as it only has I<sup>2</sup>C and UART. It is important to note that the board does not have SPI pins.
-</div>
+!!! note
+    The MAX-M10S differs from other modules as it only has I<sup>2</sup>C and UART. It is important to note that the board does not have SPI pins.
+
 
 <div class="center-block text-center"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic.jpg" alt="Back of Board I2C and UART Ports, but no SPI"></a></a></div>
 
@@ -46,9 +46,8 @@ There are two PTHs labeled `SDA` and `SCL` which indicates the I<sup>2</sup>C da
   </tr>
 </table>
 
-<div class="alert alert-info" role="alert">
-  <b>Note:</b> The only I2C address for this and all u-Blox GPS products is <b>0x42</b>, though each can have their address changed through software.
-</div>
+!!! note
+    The only I2C address for this and all u-Blox GPS products is <b>0x42</b>, though each can have their address changed through software.
 
 
 
