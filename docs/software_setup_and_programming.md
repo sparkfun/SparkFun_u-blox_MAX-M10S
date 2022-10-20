@@ -6,8 +6,7 @@
 
 All of our u-blox based GPS boards share the same library: this board, their [predeccesors](https://learn.sparkfun.com/tutorials/sparkfun-gps-breakout-zoe-m8q-and-sam-m8q-hookup-guide) and the higher [precision](https://www.sparkfun.com/products/15005) [u-blox cousins](https://www.sparkfun.com/products/15136). The SparkFun u-blox Arduino library can be downloaded with the Arduino library manager by searching '**SparkFun u-blox GNSS**' or you can grab the zip here from the [GitHub repository](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library) to manually install:
 
-<div style="text-align: center">
-[SparkFun U-blox Arduino Library (ZIP)](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library/archive/main.zip){ .md-button }</div>
+<div style="text-align: center">[SparkFun U-blox Arduino Library (ZIP)](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library/archive/main.zip){ .md-button }</div>
 
 There are several example sketches provided that utilize the I<sup>2</sup>C bus to get you up and receiving messages from space. We&apos;ll go over one of the examples in this tutorial.
 
