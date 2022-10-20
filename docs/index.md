@@ -1,8 +1,20 @@
 The [SparkFun u-blox MAX-M10S breakout](https://www.sparkfun.com/products/18037) is an ultra-low-power, high performance, miniaturized GNSS board that is perfect for battery operated applications that don't possess a lot of space, such as asset trackers and wearable devices. In this tutorial, we will quickly get you set up using the Qwiic ecosystem and Arduino so that you can start reading the output!
 
+<div style="text-align: center">
+  <table style="border-style:none">
+    <tr>
+      <td>
+        <a href="https://www.sparkfun.com/products/18037">
+          <div style="text-align: center"><img src="https://cdn.sparkfun.com//assets/parts/1/7/3/4/1/18037-SparkFun_GNSS_Receiver_Breakout_-_MAX-M10S__Qwiic_-01_Default.jpg" alt="SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)" height="500px"></div>
+          <div style="text-align: left"><h3 class="title">SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)</h3></div>
+        </a>
+        <div style="text-align: left"><span>GPS-18037</span></div>
+      </td>
+    </tr>
+  </table>
+  </div>
 
-
-<iframe width="600" height="328" src="https://www.youtube.com/embed/Yh8pLKs7aaY" title="Product Showcase: SparkFun GNSS Receiver MAX-M10S" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center"><iframe width="600" height="328" src="https://www.youtube.com/embed/Yh8pLKs7aaY" title="Product Showcase: SparkFun GNSS Receiver MAX-M10S" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
@@ -12,7 +24,7 @@ The [SparkFun u-blox MAX-M10S breakout](https://www.sparkfun.com/products/18037)
 
 To follow along with this tutorial, you will need the following materials. You may not need everything though depending on what you have. Add it to your cart, read through the guide, and adjust the cart as necessary.
 
-<div class="container">
+<div>
 <table style="border-style:none">
     <tr>
         <td align="center" style="vertical-align:top" width="140">
@@ -89,6 +101,7 @@ Below are some other GPS antenna options.
 
 If you aren't familiar with the Qwiic system, we recommend reading [here for an overview](https://www.sparkfun.com/qwiic).
 
+<div style="text-align: center">
 <table class="table table-bordered">
   <tr align="center">
    <td style="vertical-align: middle"><a href="https://www.sparkfun.com/qwiic"><img src="https://cdn.sparkfun.com/r/457-457/assets/learn_tutorials/8/2/Qwiic-registered-black.png" alt="Qwiic Connect System" title="Click to learn more about the Qwiic Connect System!"></a></td>
@@ -97,6 +110,7 @@ If you aren't familiar with the Qwiic system, we recommend reading [here for an 
     <td><i><a href="https://www.sparkfun.com/qwiic">Qwiic Connect System</a></i></td>
   </tr>
 </table>
+</div>
 
 If you aren’t familiar with the following concepts, we also recommend checking out a few of these tutorials before continuing.
 
