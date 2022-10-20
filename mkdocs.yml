@@ -76,13 +76,9 @@ extra:
       link: https://twitter.com/sparkfun
 
 nav:
-  - Product Manual:
-    - Introduction: index.md
-    - Hardware Overview: hardware_overview.md
-    - Hardware Assembly: hardware_assembly.md
-    - Software Setup and Programming: software_setup_and_programming.md
-    - Troubleshooting Tips: troubleshooting_tips.md
-    - Resources and Going Further: resources_and_going_further.md
-  - Contribution/Issues:
-    - Issues: file_issue.md
-    - Contribute: contribute.md
+  - Introduction: index.md
+  - Hardware Overview: hardware_overview.md
+  - Hardware Assembly: hardware_assembly.md
+  - Software Setup and Programming: software_setup_and_programming.md
+  - Troubleshooting Tips: troubleshooting_tips.md
+  - Resources and Going Further: resources_and_going_further.md
