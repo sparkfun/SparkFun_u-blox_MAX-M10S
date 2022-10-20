@@ -74,7 +74,8 @@ extra:
       link: https://twitter.com/sparkfun
 
 nav:
-  - Hookup Guide: index.md
+  - Introduction: index.md
+  - Getting Started:
     - Hardware Overview: hardware_overview.md
     - Hardware Assembly: hardware_assembly.md
     - Software Setup and Programming: software_setup_and_programming.md
