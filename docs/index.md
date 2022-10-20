@@ -102,7 +102,7 @@ Below are some other GPS antenna options.
 If you aren't familiar with the Qwiic system, we recommend reading [here for an overview](https://www.sparkfun.com/qwiic).
 
 <div style="text-align: center">
-<table class="table table-bordered">
+<table style="border-style:none">
   <tr>
    <td>
    <div style="text-align: center"><a href="https://www.sparkfun.com/qwiic"><img src="https://cdn.sparkfun.com/r/457-457/assets/learn_tutorials/8/2/Qwiic-registered-black.png" alt="Qwiic Connect System" title="Click to learn more about the Qwiic Connect System!"></a></td></div>
