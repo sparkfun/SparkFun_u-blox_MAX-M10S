@@ -7,7 +7,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
-  logo: img/sfe_logo_sm.png
+  logo: assets/sfe_logo_sm.png
   palette:
     primary: grey
     accent: red
