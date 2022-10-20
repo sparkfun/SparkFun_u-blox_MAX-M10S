@@ -1,7 +1,7 @@
 We've broken out the u-blox MAX-M10S module to a breakout. This section highlights the relevant features of the board. For more information about the IC, check out the Resources and Going Further.
 
 
-<div class="center-block text-center"><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic_u-blox_Module.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic_u-blox_Module.jpg" alt="MAX-M10S Highlighted"></a></div>
+<div class="center-block text-center"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic_u-blox_Module.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic_u-blox_Module.jpg" alt="MAX-M10S Highlighted"></a></div>
 
 
 ### Power
@@ -10,8 +10,8 @@ Power for this board should be **3.3V**. There is a 3.3V pin on the PTH header a
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Power.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Power.jpg" alt="Top View of Power Highlighted"></a></td>
-   <td><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Power.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Power.jpg" alt="Bottom View of Power Highlighted"></a></td>
+   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Power.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Power.jpg" alt="Top View of Power Highlighted"></a></td>
+   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Power.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Power.jpg" alt="Bottom View of Power Highlighted"></a></td>
   </tr>
   <tr align="center">
   <td><i>Top View</i></td>
@@ -29,7 +29,7 @@ Power for this board should be **3.3V**. There is a 3.3V pin on the PTH header a
   <b>Note: </b>The MAX-M10S differs from other modules as it only has I<sup>2</sup>C and UART. It is important to note that the board does not have SPI pins.
 </div>
 
-<div class="center-block text-center"><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic.jpg" alt="Back of Board I2C and UART Ports, but no SPI"></a></a></div>
+<div class="center-block text-center"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic.jpg" alt="Back of Board I2C and UART Ports, but no SPI"></a></a></div>
 
 ### Qwiic and I<sup>2</sup>C (a.k.a. DDC)
 
@@ -37,8 +37,8 @@ There are two PTHs labeled `SDA` and `SCL` which indicates the I<sup>2</sup>C da
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_I2C.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_I2C.jpg" alt="Top View of I2C"></a></td>
-   <td><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_I2C.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_I2C.jpg" alt="Bottom View of I2C"></a></td>
+   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_I2C.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_I2C.jpg" alt="Top View of I2C"></a></td>
+   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_I2C.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_I2C.jpg" alt="Bottom View of I2C"></a></td>
   </tr>
   <tr align="center">
   <td><i>Top View</i></td>
@@ -59,8 +59,8 @@ For users that prefer to communicate over UART, we made sure to configure the UA
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_UART.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_UART.jpg" alt="Top View of UART"></a></td>
-   <td><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_UART.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_UART.jpg" alt="Bottom View of UART"></a></td>
+   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_UART.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_UART.jpg" alt="Top View of UART"></a></td>
+   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_UART.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_UART.jpg" alt="Bottom View of UART"></a></td>
   </tr>
   <tr align="center">
   <td><i>Top View</i></td>
@@ -76,8 +76,8 @@ These pins are used for various extra control of the MAX-M10S. The control pins 
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Control_Pins.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Control_Pins.jpg" alt="Top View of Control Pins"></a></td>
-   <td><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Control_Pins.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Control_Pins.jpg" alt="Bottom View of Control Pins"></a></td>
+   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Control_Pins.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Control_Pins.jpg" alt="Top View of Control Pins"></a></td>
+   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Control_Pins.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Control_Pins.jpg" alt="Bottom View of Control Pins"></a></td>
   </tr>
   <tr align="center">
   <td><i>Top View</i></td>
@@ -98,14 +98,14 @@ These pins are used for various extra control of the MAX-M10S. The control pins 
 
 The board is populated with an SMA connector for a secure connection to a patch antenna.
 
-<div class="center-block text-center"><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_SMA_Connector.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_SMA_Connector.jpg" alt="SMA Antenna"></a></div>
+<div class="center-block text-center"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_SMA_Connector.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_SMA_Connector.jpg" alt="SMA Antenna"></a></div>
 
 
 ### LEDs
 
 The board includes two status LEDs as indicated in the image below.
 
-<div class="center-block text-center"><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_LEDs.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_LEDs.jpg" alt="LEDs"></a></div>
+<div class="center-block text-center"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_LEDs.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_LEDs.jpg" alt="LEDs"></a></div>
 
 * **PPS:** The pulse per second LED will illuminate each second once a position lock has been achieved.
 * **PWR:** The power LED will illuminate when 3.3V is provided either over the Qwiic bus or any of the 3.3V PTH pins.
@@ -118,7 +118,7 @@ The board includes two status LEDs as indicated in the image below.
 
 There are four jumpers on the back of the board. For more information, check out our [tutorial on working with jumper pads and PCB traces](https://learn.sparkfun.com/tutorials/how-to-work-with-jumper-pads-and-pcb-traces/all) should you decide to cut the traces with a hobby knife.
 
-<div class="center-block text-center"><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Jumpers.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Jumpers.jpg" alt="Jumpers"></a></div>
+<div class="center-block text-center"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Jumpers.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Jumpers.jpg" alt="Jumpers"></a></div>
 
 
 * **PWR:** This is connected to the PWR LED on the top of the board. Cutting this disables the LED.
@@ -134,7 +134,7 @@ There are four jumpers on the back of the board. For more information, check out
 
 The MS621FE rechargeable battery maintains the battery backed RAM (BBR) on the GNSS module. This allows for much faster position locks (a.k.a. hot start). The BBR is also used for module configuration retention. The battery is automatically trickle charged when power is applied and should maintain settings and GNSS orbit data for up to two weeks without power.
 
-<div class="center-block text-center"><a href="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Backup_Battery.jpg"><img src="..assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Backup_Battery.jpg" alt="Backup Battery"></a></div>
+<div class="center-block text-center"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Backup_Battery.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Backup_Battery.jpg" alt="Backup Battery"></a></div>
 
 
 
