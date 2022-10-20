@@ -74,8 +74,8 @@ extra:
       link: https://twitter.com/sparkfun
 
 nav:
-  - SparkFun_u-blox_MAX-M10S: 
-    - Introduction: index.md
+  - SparkFun_u-blox_MAX-M10S: index.md 
+    - Hookup Guide: 
     - Hardware Overview: hardware_overview.md
     - Hardware Assembly: hardware_assembly.md
     - Software Setup and Programming: software_setup_and_programming.md
