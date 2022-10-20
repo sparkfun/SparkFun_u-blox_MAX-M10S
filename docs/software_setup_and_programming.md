@@ -6,12 +6,12 @@
 
 All of our u-blox based GPS boards share the same library: this board, their [predeccesors](https://learn.sparkfun.com/tutorials/sparkfun-gps-breakout-zoe-m8q-and-sam-m8q-hookup-guide) and the higher [precision](https://www.sparkfun.com/products/15005) [u-blox cousins](https://www.sparkfun.com/products/15136). The SparkFun u-blox Arduino library can be downloaded with the Arduino library manager by searching '**SparkFun u-blox GNSS**' or you can grab the zip here from the [GitHub repository](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library) to manually install:
 
-<div class="text-center"><a class="btn btn-danger" href="https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library/archive/main.zip" role="button" target="u-blox_library">SparkFun U-blox Arduino Library (ZIP)</a></div>
-<br />
+
+[SparkFun U-blox Arduino Library (ZIP)](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library/archive/main.zip){ .md-button }
 
 There are several example sketches provided that utilize the I<sup>2</sup>C bus to get you up and receiving messages from space. We&apos;ll go over one of the examples in this tutorial.
 
 !!! note
     Example 2 uses the '<b>MicroNMEA</b>' library by <b>Steve Marple</b>. Make sure to install the library as well by searching for it in the Arduino library manager. You could also grab the zip here from the <a href="https://github.com/stevemarple/MicroNMEA">GitHub repository</a> to manually install.
 
-    <div class="text-center"><a class="btn btn-primary" href="https://github.com/stevemarple/MicroNMEA/archive/master.zip" role="button" target="micronmea">MicroNMEA Arduino Library (ZIP)</a></div>
+    [MicroNMEA Arduino Library (ZIP)](https://github.com/stevemarple/MicroNMEA/archive/master.zip){ .md-button }
