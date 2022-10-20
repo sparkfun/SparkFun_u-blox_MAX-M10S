@@ -103,11 +103,12 @@ If you aren't familiar with the Qwiic system, we recommend reading [here for an 
 
 <div style="text-align: center">
 <table class="table table-bordered">
-  <tr align="center">
-   <td style="vertical-align: middle"><a href="https://www.sparkfun.com/qwiic"><img src="https://cdn.sparkfun.com/r/457-457/assets/learn_tutorials/8/2/Qwiic-registered-black.png" alt="Qwiic Connect System" title="Click to learn more about the Qwiic Connect System!"></a></td>
+  <tr>
+   <td style="text-align: center">
+   <a href="https://www.sparkfun.com/qwiic"><img src="https://cdn.sparkfun.com/r/457-457/assets/learn_tutorials/8/2/Qwiic-registered-black.png" alt="Qwiic Connect System" title="Click to learn more about the Qwiic Connect System!"></a></td>
   </tr>
-  <tr align="center">
-    <td><i><a href="https://www.sparkfun.com/qwiic">Qwiic Connect System</a></i></td>
+  <tr>
+    <td style="text-align: center"><i><a href="https://www.sparkfun.com/qwiic">Qwiic Connect System</a></i></td>
   </tr>
 </table>
 </div>
