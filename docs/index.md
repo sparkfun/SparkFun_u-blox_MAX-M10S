@@ -5,10 +5,11 @@ The [SparkFun u-blox MAX-M10S breakout](https://www.sparkfun.com/products/18037)
     <tr>
       <td>
         <a href="https://www.sparkfun.com/products/18037">
-          <div style="text-align: center"><img src="https://cdn.sparkfun.com//assets/parts/1/7/3/4/1/18037-SparkFun_GNSS_Receiver_Breakout_-_MAX-M10S__Qwiic_-01_Default.jpg" alt="SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)" height="500px"></div>
-          <div style="text-align: left"><h3 class="title">SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)</h3></div>
+          <div style="text-align: center"><img src="https://cdn.sparkfun.com/r/500-500/assets/parts/1/7/3/4/1/18037-SparkFun_GNSS_Receiver_Breakout_-_MAX-M10S__Qwiic_-01_Default.jpg" alt="SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)" height="500px"></div>
+          <h3 style="text-align: left">SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)
+          </h3>
         </a>
-        <div style="text-align: left"><span>GPS-18037</span></div>
+        <div style="text-align: left"><span style="text-align: left">GPS-18037</span></div>
       </td>
     </tr>
   </table>
