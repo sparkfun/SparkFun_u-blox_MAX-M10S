@@ -117,21 +117,29 @@ If you aren’t familiar with the following concepts, we also recommend checking
 
 <table style="border-style:none">
     <tr>
-        <td align="center" width="264">
+        <td style="vertical-align: text-top;" width="264px">
             <a href="https://learn.sparkfun.com/tutorials/gps-basics">
-            <img src="https://cdn.sparkfun.com/c/264-148/assets/3/6/6/f/7/50edfc17ce395f7105000000.jpg"><h3 class="title">GPS Basics</h3></a>
+            <div style="text-align: center"><img src="https://cdn.sparkfun.com/c/264-148/assets/3/6/6/f/7/50edfc17ce395f7105000000.jpg" style="width:264px; height:148px; object-fit:contain;"></div>
+            <h3 style="text-align: left">GPS Basics
+            </h3></a>
         </td>
-        <td align="center" width="264">
+        <td style="vertical-align: text-top;" width="264px">
             <a href="https://learn.sparkfun.com/tutorials/i2c">
-            <img src="https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/8/2/I2C-Block-Diagram.jpg"><h3 class="title">I2C</h3></a>
+            <div style="text-align: center"><img src="https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/8/2/I2C-Block-Diagram.jpg" style="width:264px; height:148px; object-fit:contain;"></div>
+            <h3 style="text-align: left">I2C
+            </h3></a>
         </td>
-        <td align="center" width="264">
+        <td style="vertical-align: text-top;" width="264px">
             <a href="https://learn.sparkfun.com/tutorials/serial-basic-hookup-guide">
-            <img src="https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/5/9/7/14050-01.jpg"><h3 class="title">Serial Basic Hookup Guide</h3></a>
+            <div style="text-align: center"><img src="https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/5/9/7/14050-01.jpg" style="width:264px; height:148px; object-fit:contain;"></div>
+            <h3 style="text-align: left">Serial Basic Hookup Guide
+            </h3></a>
         </td>
-        <td align="center" width="264">
+        <td style="vertical-align: text-top;" width="264px">
             <a href="https://learn.sparkfun.com/tutorials/redboard-plus-hookup-guide">
-            <img src="https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/1/7/5/8/18158-SparkFun_RedBoard_Plus-01.jpg"><h3 class="title">RedBoard Hookup Guide</h3></a>
+            <div style="text-align: center"><img src="https://cdn.sparkfun.com/c/264-148/assets/learn_tutorials/1/7/5/8/18158-SparkFun_RedBoard_Plus-01.jpg" style="width:264px; height:148px; object-fit:contain;"></div>
+            <h3 style="text-align: left">RedBoard Hookup Guide
+            </h3></a>
         </td>
     <tr>
 </table>
