@@ -83,3 +83,6 @@ nav:
     - Software Setup and Programming: software_setup_and_programming.md
     - Troubleshooting: troubleshooting.md
     - Resources and Going Further: resources_and_going_further.md
+  - Issues and Contributing:
+    - Issues: file_issues.md
+    - Contributing: contribute.md
