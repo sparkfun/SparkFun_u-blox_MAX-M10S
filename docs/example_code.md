@@ -1,6 +1,6 @@
 We're just going to look at example two (i.e. "**Example2_NMEAParsing.ino**") which in my opinion, makes it clear the awesomeness of these GPS receivers. That is to say, talking to satellites and finding out where in the world you are.     
 
-    language:c
+    language: c
     #include <Wire.h> //Needed for I2C to GPS
 
     #include "SparkFun_u-blox_GNSS_Arduino_Library.h" //Click here to get the library: http://librarymanager/All#SparkFun_u-blox_GNSS
