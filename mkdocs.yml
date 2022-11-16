@@ -81,6 +81,7 @@ nav:
     - Hardware Overview: hardware_overview.md
     - Hardware Assembly: hardware_assembly.md
     - Software Setup and Programming: software_setup_and_programming.md
+    - Example Code: example_code.md
     - Troubleshooting: troubleshooting.md
     - Resources and Going Further: resources_and_going_further.md
   - Issues and Contributing:
