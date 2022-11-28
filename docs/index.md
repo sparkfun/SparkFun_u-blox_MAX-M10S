@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://github.com/sparkfun/SparkFun_u-blox_MAX-M10S/issues" alt="Issues">
+    <img src="https://img.shields.io/github/issues/sparkfun/SparkFun_u-blox_MAX-M10S.svg" /></a>
+  <a href="https://github.com/sparkfun/SparkFun_u-blox_MAX-M10SC/actions" alt="Actions">
+    <img src="https://github.com/sparkfun/SparkFun_u-blox_MAX-M10S/actions/workflows/mkdocs.yml/badge.svg" /></a>
+  <a href="https://github.com/sparkfun/SparkFun_u-blox_MAX-M10S/blob/main/LICENSE.md" alt="License">
+    <img src="https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue.svg"/></a>
+  <a href="https://twitter.com/intent/follow?screen_name=sparkfun">
+    <img src="https://img.shields.io/twitter/follow/sparkfun.svg?style=social&logo=twitter" alt="follow on Twitter"></a>
+</p>
+
 The [SparkFun u-blox MAX-M10S breakout](https://www.sparkfun.com/products/18037) is an ultra-low-power, high performance, miniaturized GNSS board that is perfect for battery operated applications that don't possess a lot of space, such as asset trackers and wearable devices. In this tutorial, we will quickly get you set up using the Qwiic ecosystem and Arduino so that you can start reading the output!
 
 <div style="text-align: center">
