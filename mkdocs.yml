@@ -5,6 +5,11 @@ site_url: https://sparkfun.github.io/SparkFun_u-blox_MAX-M10S
 
 edit_uri: edit/main/docs/
 
+repo_url: https://github.com/sparkfun/SparkFun_u-blox_MAX-M10S
+repo_name: sparkfun/SparkFun_u-blox_MAX-M10S
+copyright: Copyright 2022 SparkFun Electronics (6333 Dry Creek Parkway, Niwot, Colorado 80503)
+
+# Configuration for webpage theme
 theme:
   name: material
   logo: assets/sfe_logo_sm.png
@@ -20,6 +25,33 @@ theme:
     - navigation.tabs.sticky
     - navigation.tabs
 
+	# Adds light/dark theme to webpage
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: grey
+      accent: red
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to dark mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: grey
+      accent: red
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to system preference
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: grey
+      accent: red
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode    
+
+  # Configures icons of callout boxes
   icon:
     repo: fontawesome/brands/github
     admonition:
@@ -35,32 +67,52 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
+# Adds PDF icon to download hookup guide
+custom_dir: docs/overrides
 
+# Included MkDocs plugins
+# Add the installation of any new plugins to the ./github/workflows/mkdocs.yml file also
 plugins:
   - search
-  - monorepo
+  - monorepo	  
+  # For PDF rendering
+  - with-pdf:
+      cover_subtitle: none
+      cover_logo: assets/img/sfe_logo_sm.png
+      exclude_pages: [ "print_pdf", "file_issue", "contribute" ]
+      output_path: assets/SparkFun_u-blox_GNSS_Receiver Breakout_-_MAX-M10S_Hookup_Guide.pdf
 
-repo_url: https://github.com/sparkfun/SparkFun_u-blox_MAX-M10S/
-repo_name: sparkfun/SparkFun_u-blox_MAX-M10S/
-
-copyright: Copyright 2022 SparkFun Electronics (6333 Dry Creek Parkway, Niwot, Colorado 80503)
-
+# Included Markdown extensions
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+	    # base_path: ['./docs']
+      url_download: true
+      url_max_size: 0
+      url_timeout: 0
+      url_request_headers: {}
   - pymdownx.superfences
   - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true 
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.mark
   - pymdownx.caret
   - pymdownx.tilde
+  - pymdownx.keys
   - tables
   - admonition
   - md_in_html
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 
 extra:
   social:
@@ -74,6 +126,10 @@ extra:
       link: https://www.facebook.com/SparkFun
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/sparkfun
+
+# Configures styling for PDF rendering and webpage layout
+extra_css:
+  - overrides/extra.css
 
 nav:
   - SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic) Hookup Guide:
