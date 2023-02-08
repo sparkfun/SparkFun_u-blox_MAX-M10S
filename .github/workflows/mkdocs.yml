@@ -2,7 +2,7 @@ name: Run mkdocs
 on:
   push:
     branches:
-      - docs_test
+      - docs
 permissions:
   contents: write
 jobs:
