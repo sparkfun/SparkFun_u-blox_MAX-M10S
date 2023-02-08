@@ -80,7 +80,7 @@ plugins:
       cover_subtitle: none
       cover_logo: assets/img/sfe_logo_sm.png
       exclude_pages: [ "print_pdf", "file_issue", "contribute" ]
-      output_path: assets/SparkFun_u-blox_GNSS_Receiver_Breakout_-_MAX-M10S_Hookup_Guide.pdf
+      output_path: ../assets/SparkFun_u-blox_GNSS_Receiver_Breakout_-_MAX-M10S_Hookup_Guide.pdf
 
 # Included Markdown extensions
 markdown_extensions:
