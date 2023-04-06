@@ -115,7 +115,7 @@ theme:
       link: octicons/link-16
 
 # Adds overrides for stylesheets, html, etc.
-custom_dir: docs/overrides
+custom_dir: overrides
 
 # Included MkDocs plugins
 # Add the installation of any new plugins to the ./github/workflows/mkdocs.yml file also
