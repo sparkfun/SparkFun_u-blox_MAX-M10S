@@ -42,6 +42,7 @@ theme:
     # Enables anchor tracking (updates page url with the section user is on)
     # i.e. https://docs.sparkfun.com/<page link>/#<sub-section>
     - navigation.tracking
+    - navigation.tabs.sticky
 
     # Enables tabs for navigating the website
     - navigation.tabs
