@@ -4,7 +4,6 @@ hide:
   - toc
 icon: fontawesome/solid/scroll
 ---
-# Single-Page View
 
 # Introduction
 --8<-- "./docs/index.md"
