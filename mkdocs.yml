@@ -83,8 +83,15 @@ theme:
 
   # Configures icons of callout boxes
   icon:
+    # Sets homepage icon
+    logo: sfe-logo
+    
     # Sets repo icon to GitHub icon
     repo: fontawesome/brands/github
+
+    # Sets icons for "view source" (commented out) and "edit this page" buttons
+    edit: material/file-document-edit-outline
+    # view: material/file-code-outline
 
     # Admonition Icons (callout boxes)
     admonition:
