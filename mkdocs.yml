@@ -173,6 +173,8 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+  - toc:
+      permalink: ''
 
 extra:
   social:
