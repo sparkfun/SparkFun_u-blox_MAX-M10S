@@ -177,6 +177,9 @@ markdown_extensions:
       permalink: ''
 
 extra:
+# Configures the hperlink for the logo in the header
+  homepage: https://www.sparkfun.com
+# Configures social icons in the footer
   social:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/sparkfun
