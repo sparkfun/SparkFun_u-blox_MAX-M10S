@@ -128,7 +128,7 @@ plugins:
       type: timeago
   # Add git committers at bottom of the page
   - git-committers:
-      repository: sparkfun/SparkFun_Buck_Regulator_AP63357DV-7
+      repository: sparkfun/SparkFun_u-blox_MAX-M10S
       branch: main
   # Add git authors at bottom of the page
   - git-authors
