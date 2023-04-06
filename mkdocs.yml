@@ -2,19 +2,25 @@
 site_name: SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic) Hookup Guide
 site_description: A hookup guide for the SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)
 site_url: https://sparkfun.github.io/SparkFun_u-blox_MAX-M10S
+site_author: SparkFun Electronics
 
+# Default edit/view actions to "main" branch, instead of "master"
 edit_uri: blob/main/docs/
 
 repo_url: https://github.com/sparkfun/SparkFun_u-blox_MAX-M10S
 repo_name: sparkfun/SparkFun_u-blox_MAX-M10S
+
 copyright:
   Copyright 2023 - <a href="https://www.sparkfun.com/" target="_blank" rel="noopener">SparkFun Electronics&#174;<br>
   <a href="https://goo.gl/maps/vkstCpQZW6jZMjzYA" target="_blank" rel="noopener">6333 Dry Creek Parkway, Niwot, Colorado 80503</a>
 
 # Configuration for webpage theme
 theme:
+
   # Theme: https://squidfunk.github.io/mkdocs-material/
   name: material
+   
+  # Icon in Browser Tab (must be square img - i.e. 32x32 pixels)
   logo: assets/sfe_logo_sm.png
   # Page Font
   font:
