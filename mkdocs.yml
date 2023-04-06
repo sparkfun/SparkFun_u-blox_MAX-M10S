@@ -191,7 +191,7 @@ extra:
 
 # Configures styling for PDF rendering and webpage layout
 extra_css:
-  - overrides/extra.css
+  - stylesheet/extra.css
 
 nav:
   - SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic) Hookup Guide:
