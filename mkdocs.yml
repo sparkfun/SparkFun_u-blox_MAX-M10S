@@ -16,9 +16,6 @@ theme:
   # Theme: https://squidfunk.github.io/mkdocs-material/
   name: material
   logo: assets/sfe_logo_sm.png
-  palette:
-    primary: grey
-    accent: red
   # Page Font
   font:
     text: Roboto
