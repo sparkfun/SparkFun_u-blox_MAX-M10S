@@ -148,7 +148,7 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-	    # base_path: ['./docs']
+      # base_path: ['./docs']
       url_download: true
       url_max_size: 0
       url_timeout: 0
