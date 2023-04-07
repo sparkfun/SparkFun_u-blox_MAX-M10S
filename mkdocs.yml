@@ -19,7 +19,7 @@ theme:
 
   # Theme: https://squidfunk.github.io/mkdocs-material/
   name: material
-   
+
   # Icon in Browser Tab (must be square img - i.e. 32x32 pixels)
   logo: assets/sfe_logo_sm.png
   # Page Font
@@ -91,7 +91,7 @@ theme:
   icon:
     # Sets homepage icon
     logo: sfe-logo
-    
+
     # Sets repo icon to GitHub icon
     repo: fontawesome/brands/github
 
@@ -145,13 +145,13 @@ plugins:
   # Enables use of Git submodules and larger code base
   - monorepo
   # For PDF rendering
-  - with-pdf:
-      author: SparkFun Electronics&#174;
-      copyright: Copyright 2023 - SparkFun Electronics&#174;
-      cover_subtitle: none
-      cover_logo: assets/img/sfe_logo_sm.png
-      exclude_pages: [ "hard_copy", "single_page", "file_issue", "contribute" ]
-      output_path: ../assets/SparkFun_u-blox_GNSS_Receiver_Breakout_-_MAX-M10S_Hookup_Guide.pdf
+  #- with-pdf:
+  #    author: SparkFun Electronics&#174;
+  #    copyright: Copyright 2023 - SparkFun Electronics&#174;
+  #    cover_subtitle: none
+  #    cover_logo: assets/img/sfe_logo_sm.png
+  #    exclude_pages: [ "hard_copy", "single_page", "file_issue", "contribute" ]
+  #    output_path: ../assets/SparkFun_u-blox_GNSS_Receiver_Breakout_-_MAX-M10S_Hookup_Guide.pdf
 
 # Included Markdown extensions
 markdown_extensions:
