@@ -14,7 +14,7 @@ The [SparkFun u-blox MAX-M10S breakout](https://www.sparkfun.com/products/18037)
 <div style="text-align: center">
   <table style="border-style:none">
     <tr>
-      <td>
+      <td style="text-align: center; vertical-align: middle;">
         <a href="https://www.sparkfun.com/products/18037">
           <div style="text-align: center"><img src="https://cdn.sparkfun.com/r/500-500/assets/parts/1/7/3/4/1/18037-SparkFun_GNSS_Receiver_Breakout_-_MAX-M10S__Qwiic_-01_Default.jpg" alt="SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)" height="500px"></div>
           <h3 style="text-align: left">SparkFun GNSS Receiver Breakout - MAX-M10S (Qwiic)
@@ -88,7 +88,7 @@ Below are some other GPS antenna options.
 
 <div class="container">
 <table style="border-style:none;">
-    <tr >
+    <tr>
     <td width="140">
         <a href="https://www.sparkfun.com/products/14987">
           <div style="text-align: center"><img src="https://cdn.sparkfun.com//assets/parts/1/3/2/9/1/14987-GPS_GNSS_Embedded_Antenna_SMA_-_1m-01a.jpg" alt="GPS/GNSS Embedded Antenna - 1m (SMA)" height="140"></div>
@@ -116,11 +116,11 @@ If you aren't familiar with the Qwiic system, we recommend reading [here for an 
 <div style="text-align: center">
 <table style="border-style:none">
   <tr>
-   <td>
+   <td style="text-align: center; vertical-align: middle;">
    <div style="text-align: center"><a href="https://www.sparkfun.com/qwiic"><img src="https://cdn.sparkfun.com/r/457-457/assets/learn_tutorials/8/2/Qwiic-registered-black.png" alt="Qwiic Connect System" title="Click to learn more about the Qwiic Connect System!"></a></td></div>
   </tr>
   <tr>
-    <td><div style="text-align: center"><i><a href="https://www.sparkfun.com/qwiic">Qwiic Connect System</a></i></div></td>
+    <td style="text-align: center; vertical-align: middle;"><div style="text-align: center"><i><a href="https://www.sparkfun.com/qwiic">Qwiic Connect System</a></i></div></td>
   </tr>
 </table>
 </div>

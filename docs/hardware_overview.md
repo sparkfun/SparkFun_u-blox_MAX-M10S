@@ -9,13 +9,13 @@ We've broken out the u-blox MAX-M10S module to a breakout. This section highligh
 Power for this board should be **3.3V**. There is a 3.3V pin on the PTH header along the side of the board, but you can also provide power through the Qwiic connector.
 
 <table class="table table-hover table-striped table-bordered">
-  <tr align="center">
-   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Power.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Power.jpg" alt="Top View of Power Highlighted"></a></td>
-   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Power.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Power.jpg" alt="Bottom View of Power Highlighted"></a></td>
+  <tr style="vertical-align:middle;">
+   <td style="text-align: center; vertical-align: middle;"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Power.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Power.jpg" alt="Top View of Power Highlighted"></a></td>
+   <td style="text-align: center; vertical-align: middle;"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Power.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Power.jpg" alt="Bottom View of Power Highlighted"></a></td>
   </tr>
-  <tr align="center">
-  <td><i>Top View</i></td>
-  <td><i>Bottom View</i></td>
+  <tr style="vertical-align:middle;">
+  <td style="text-align: center; vertical-align: middle;"><i>Top View</i></td>
+  <td style="text-align: center; vertical-align: middle;"><i>Bottom View</i></td>
   </tr>
 </table>
 
@@ -36,13 +36,13 @@ Power for this board should be **3.3V**. There is a 3.3V pin on the PTH header a
 There are two PTHs labeled `SDA` and `SCL` which indicates the I<sup>2</sup>C data lines. Similarly, you can just use the Qwiic connector to provide power and connect to the I<sup>2</sup>C pins. The [Qwiic ecosystem](https://www.sparkfun.com/qwiic) is made for fast prototyping by removing the need for soldering. All you need to do is plug a Qwiic cable into the Qwiic connector and voila!
 
 <table class="table table-hover table-striped table-bordered">
-  <tr align="center">
-   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_I2C.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_I2C.jpg" alt="Top View of I2C"></a></td>
-   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_I2C.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_I2C.jpg" alt="Bottom View of I2C"></a></td>
+  <tr style="vertical-align:middle;">
+   <td style="text-align: center; vertical-align: middle;"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_I2C.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_I2C.jpg" alt="Top View of I2C"></a></td>
+   <td style="text-align: center; vertical-align: middle;"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_I2C.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_I2C.jpg" alt="Bottom View of I2C"></a></td>
   </tr>
-  <tr align="center">
-  <td><i>Top View</i></td>
-  <td><i>Bottom View</i></td>
+  <tr style="vertical-align:middle;">
+  <td style="text-align: center; vertical-align: middle;"><i>Top View</i></td>
+  <td style="text-align: center; vertical-align: middle;"><i>Bottom View</i></td>
   </tr>
 </table>
 
@@ -57,13 +57,13 @@ There are two PTHs labeled `SDA` and `SCL` which indicates the I<sup>2</sup>C da
 For users that prefer to communicate over UART, we made sure to configure the UART pin grouping to an industry standard to ensure that it easily connects to a [Serial Basic](https://www.sparkfun.com/products/15096). Extra UART pins are also broken out on another edge of the board as well. The port is set to **38400 baud** as the default.
 
 <table class="table table-hover table-striped table-bordered">
-  <tr align="center">
-   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_UART.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_UART.jpg" alt="Top View of UART"></a></td>
-   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_UART.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_UART.jpg" alt="Bottom View of UART"></a></td>
+  <tr style="vertical-align:middle;">
+   <td style="text-align: center; vertical-align: middle;"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_UART.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_UART.jpg" alt="Top View of UART"></a></td>
+   <td style="text-align: center; vertical-align: middle;"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_UART.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_UART.jpg" alt="Bottom View of UART"></a></td>
   </tr>
-  <tr align="center">
-  <td><i>Top View</i></td>
-  <td><i>Bottom View</i></td>
+  <tr style="vertical-align:middle;">
+  <td style="text-align: center; vertical-align: middle;"><i>Top View</i></td>
+  <td style="text-align: center; vertical-align: middle;"><i>Bottom View</i></td>
   </tr>
 </table>
 
@@ -74,13 +74,13 @@ For users that prefer to communicate over UART, we made sure to configure the UA
 These pins are used for various extra control of the MAX-M10S. The control pins are highlighted below.
 
 <table class="table table-hover table-striped table-bordered">
-  <tr align="center">
-   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Control_Pins.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Control_Pins.jpg" alt="Top View of Control Pins"></a></td>
-   <td><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Control_Pins.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Control_Pins.jpg" alt="Bottom View of Control Pins"></a></td>
+  <tr style="vertical-align:middle;">
+   <td style="text-align: center; vertical-align: middle;"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Control_Pins.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Top_Control_Pins.jpg" alt="Top View of Control Pins"></a></td>
+   <td style="text-align: center; vertical-align: middle;"><a href="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Control_Pins.jpg"><img src="../assets/18037-SparkFun_GNSS_Receiver_Breakout_MAX-M10S_Qwiic-Bottom_Control_Pins.jpg" alt="Bottom View of Control Pins"></a></td>
   </tr>
-  <tr align="center">
-  <td><i>Top View</i></td>
-  <td><i>Bottom View</i></td>
+  <tr style="vertical-align:middle;">
+  <td style="text-align: center; vertical-align: middle;"><i>Top View</i></td>
+  <td style="text-align: center; vertical-align: middle;"><i>Bottom View</i></td>
   </tr>
 </table>
 
